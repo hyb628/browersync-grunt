@@ -1,4 +1,6 @@
 # 1号店移动端前端项目自动化工具 
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/hyb628/browersync-grunt.svg)](https://greenkeeper.io/)
   在这基础之上加入了brower—sync同步工具，替代liveload  ，效果更好，在不同设备能同步测试 —— 一喵呜 
 
 请大家做项目之前，先git下本项目
