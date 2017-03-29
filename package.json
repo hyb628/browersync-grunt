@@ -5,7 +5,7 @@
     "grunt": ">0.4.1",
     "grunt-browser-sync": "^2.2.0",
     "grunt-contrib-copy": ">0.4.0",
-    "grunt-contrib-cssmin": "~0.6.1",
+    "grunt-contrib-cssmin": "~2.0.0",
     "grunt-contrib-watch": ">0.5.3",
     "yhd-grunt-less": ">0.1.1"
   }
